@@ -1,1 +1,2 @@
-print('dance')
+if i > 5:
+	stop
